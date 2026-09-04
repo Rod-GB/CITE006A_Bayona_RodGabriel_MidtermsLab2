@@ -3,7 +3,7 @@ const myCourse = "CITE 006A";
 const mySection = "EMCDAT21S1";
 
 function getGreeting(name) {
-    return "Hello, " + name + "! Welcome to Node.js";
+    return "Hello there, " + name + "! Welcome to the team.";
 }
 
 function getName(name) {
